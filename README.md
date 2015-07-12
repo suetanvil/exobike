@@ -4,6 +4,9 @@ An ASCII-art motorcycle racing game for <strike>the Commodore
 Pet</strike> modern web browsers written in
 <strike>BASIC</strike> Coffeescript.
 
+A recent playable version can be found at
+<http://suetanvil.github.io/exobike/>.
+
 ## Compiling
 
 1. Install node.js, coffeescript and GNU make.
