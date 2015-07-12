@@ -1,8 +1,8 @@
 # Exobike
 
-An ASCII-art motorcycle racing game for <strikeout>the Commodore
-Pet</strikeout> modern web browsers written in
-<strikeout>BASIC</strikeout> Coffeescript.
+An ASCII-art motorcycle racing game for <strike>the Commodore
+Pet</strike> modern web browsers written in
+<strike>BASIC</strike> Coffeescript.
 
 ## Compiling
 
