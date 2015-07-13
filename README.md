@@ -23,4 +23,9 @@ A recent playable version can be found at
    fight ASCII Invid.
 4. Needs a scoreboard; could probably fit it all in a cookie.
 
+## Attribution
+
+I got the idea for this by
+[pestering Josh Millard](https://twitter.com/suetanvil/status/601187126840074240)
+for it.
 
